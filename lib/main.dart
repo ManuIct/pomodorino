@@ -21,7 +21,6 @@ class MainApp extends StatelessWidget {
         scaffoldBackgroundColor: AppColors.background,
         colorScheme: ColorScheme.fromSeed(
           seedColor: AppColors.accent,
-          primary: AppColors.accent,
         ),
         fontFamily: 'Inter',
       ),
